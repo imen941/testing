@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.part1{
+    background-color: aliceblue;
+    height: 100vh;
+}
+.part2{
+    background-color: aqua;
+    height: 100vh;
+}
+.part3{
+    background-color: aquamarine;
+    height: 100vh;
+}
+.part4{
+    background-color: bisque;
+    height: 100vh;
+} 
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    height: 50;
+    background-color: aquamarine;
+    position: fixed ;
+    width: ;
+
+}
+.navbar ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
